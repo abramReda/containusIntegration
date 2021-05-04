@@ -11,7 +11,7 @@ namespace WebApplication1.Tests
             // dammy unit test for prove of consept 
             // to see how containuse integration work on github
             // with unit test in pipline test
-            Assert.True(1 == 1);
+            Assert.True(1 == 0);
         }
     }
 }
