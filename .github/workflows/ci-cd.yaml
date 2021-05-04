@@ -1,0 +1,9 @@
+name : continuas integration and deployment
+
+on :
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: 
